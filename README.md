@@ -5,7 +5,7 @@ This repository contains a selection of completed coursework from the [MSc in Co
 ## Details 
 
 | Folder | Description | Languages/libraries |
-| --- | --- | --- | --- |
+| --- | --- | --- | 
 | Deep learning | Implementation of generative (VAE, DCGAN) and recurrent (RNN, GRU, LSTM) deep learning models. | Python, PyTorch |
 <!-- | Algorithmic fairness | Using regularisation to optimise for both fairness and accuracy after removing algorithmic bias. | Python, Scikit-learn, AIF360, Pandas | 78/100 |  -->
 <!-- | Component analysis and SVMs | Implementation of dimensionality reduction techniques (PCA, whitened PCA, LDA) and solving the SVM optimisation problem. | Matlab, Quadprog | 92/100 |  -->
